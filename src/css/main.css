@@ -42,7 +42,7 @@ h4.a-spacing-medium {
 }
 
 /* 商品ページ */
-div#cipInsideDeliveryBlock_feature_div {
+div#cipInsideDeliveryBlock_feature_div, a#contextualIngressPtLink {
     display: none !important;
 }
 
